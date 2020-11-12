@@ -9,23 +9,22 @@
     background-color: 	#C0C0C0;
 }
 
-/* For Mobile Devices */
 
-@media(max-width:576px){
-    .navbar{
-        padding: 0px !important;
-      
+/* For Mobile Devices */
+@media(max-width:768px){
+    #card-beef,#card-sushi{
+        margin-top: 36px;
     }
-    .navbar-nav{
-         background-color: #ffc401 !important;
-       
-       
-    }
-    .navbar-brand{
-        padding-left: 16px;
-    }
-    .navbar-toggler{
-        margin-right: 16px;
+   
+}
+
+
+
+/* For Tablet Devices */
+
+@media(min-width:768px) and (max-width:992px){
+    #card-sushi{
+    margin-top: 36px;
     }
    
 }
