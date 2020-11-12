@@ -1,0 +1,31 @@
+
+.navbar{
+    background-color: #f6b319 !important;
+}
+#header{
+    color: #557c35;
+}
+.card{
+    background-color: 	#C0C0C0;
+}
+
+/* For Mobile Devices */
+
+@media(max-width:576px){
+    .navbar{
+        padding: 0px !important;
+      
+    }
+    .navbar-nav{
+         background-color: #ffc401 !important;
+       
+       
+    }
+    .navbar-brand{
+        padding-left: 16px;
+    }
+    .navbar-toggler{
+        margin-right: 16px;
+    }
+   
+}
