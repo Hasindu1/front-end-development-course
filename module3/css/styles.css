@@ -1,0 +1,30 @@
+
+.navbar{
+    background-color: #f6b319 !important;
+}
+#header{
+    color: #557c35;
+}
+.card{
+    background-color: 	#C0C0C0;
+}
+
+
+/* For Mobile Devices */
+@media(max-width:768px){
+    #card-beef,#card-sushi{
+        margin-top: 36px;
+    }
+   
+}
+
+
+
+/* For Tablet Devices */
+
+@media(min-width:768px) and (max-width:992px){
+    #card-sushi{
+    margin-top: 36px;
+    }
+   
+}
