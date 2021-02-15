@@ -1,1 +1,2 @@
 # front-end-development-course
+https://teams.microsoft.com/dl/launcher/launcher.html?url=%2F_%23%2Fl%2Fmeetup-join%2F19%3Ameeting_ODU5NDllYWMtNTc0Ni00YmFjLTg0ZDQtMDk4NTMzMTkyNmU2%40thread.v2%2F0%3Fcontext%3D%257b%2522Tid%2522%253a%25226c603d40-8fdf-4d5e-96dd-bea1cc978a72%2522%252c%2522Oid%2522%253a%25223cdf8f9b-7d80-4a86-b213-1e6dd869f78f%2522%257d%26anon%3Dtrue&type=meetup-join&deeplinkId=2c272ee2-eea1-4734-a188-7975f33ac5bd&directDl=true&msLaunch=true&enableMobilePage=true&suppressPrompt=true
